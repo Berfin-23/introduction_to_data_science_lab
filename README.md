@@ -18,7 +18,7 @@ This course provides hands-on experience with fundamental data science concepts 
 ## Experiments
 
 1. **Experiment 1: Introduction to Data Science**
-    - [Questions and Answers](https://github.com/Berfin-23/introduction_to_data_science_lab.git)
+    - [Questions and Answers]([https://github.com/Berfin-23/introduction_to_data_science_lab.git](https://github.com/Berfin-23/introduction_to_data_science_lab/tree/main/Ex1))
 
 
 ## Getting Started
