@@ -19,6 +19,8 @@ This course provides hands-on experience with fundamental data science concepts 
 
 1. **Experiment 1: Introduction to Data Science**
     - [Questions and Answers](https://github.com/Berfin-23/introduction_to_data_science_lab/tree/main/Ex1)
+1. **Experiment 1: Working with Data using Pandas**
+    - [Questions and Answers](https://github.com/Berfin-23/introduction_to_data_science_lab/tree/main/Ex2)
 
 
 ## Getting Started
